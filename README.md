@@ -6,6 +6,6 @@
 
 2. Use principal component analysis to find a low-dimensional representation of face images.
 
-For more specifications, see: ex7.pdf file (https://github.com/vshakun/machine-learning-ex6/blob/master/ex6.pdf)
+For more specifications, see: ex7.pdf file (https://github.com/vshakun/machine-learning-ex7/blob/master/ex7.pdf)
 Programming Language: MatLab <br/>
 Professor: Andrew Ng 
